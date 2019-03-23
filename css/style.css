@@ -391,12 +391,19 @@ Main Components
 .cd-schedule .single-event[data-event="event-men-mma"] *, .cd-schedule [data-event="event-men-mma"] .header *{color:#fff;}
 .cd-schedule .single-event[data-event="event-men-mma"]:hover {background:#c12525;}
 
+.cd-schedule .single-event[data-event="event-men-nearu"],.cd-schedule [data-event="event-men-nearu"] .header-bg {background:#30578a;color:#fff!important;}
+.cd-schedule .single-event[data-event="event-men-nearu"] *, .cd-schedule [data-event="event-men-nearu"] .header *{color:#fff;}
+.cd-schedule .single-event[data-event="event-men-nearu"]:hover {background:#204070;}
+
 .cd-schedule .single-event[data-event="event-men-selfdefence"],.cd-schedule [data-event="event-men-selfdefence"] .header-bg {background:#e13535;color:#fff!important;}
 .cd-schedule .single-event[data-event="event-men-selfdefence"] *, .cd-schedule [data-event="event-men-selfdefence"] .header *{color:#fff;}
 .cd-schedule .single-event[data-event="event-men-selfdefence"]:hover {background:#c12525;}
 
 .cd-schedule .single-event[data-event="event-men-battlerope"],.cd-schedule [data-event="event-men-battlerope"] .header-bg {background:#222;}
 .cd-schedule .single-event[data-event="event-men-battlerope"]:hover {background: #000;}
+
+.cd-schedule .single-event[data-event="event-men-ninjutsu"],.cd-schedule [data-event="event-men-ninjutsu"] .header-bg {background:#222;}
+.cd-schedule .single-event[data-event="event-men-ninjutsu"]:hover {background: #000;}
 
 
 .cd-schedule .single-event[data-event="event-1"],
