@@ -361,9 +361,13 @@ Main Components
 .cd-schedule .single-event[data-event="event-women-trx"],.cd-schedule [data-event="event-women-trx"] .header-bg {background: #b0c30d;}
 .cd-schedule .single-event[data-event="event-women-trx"]:hover {background: #a0b300;}
 
-.cd-schedule .single-event[data-event="event-women-aerobic"],.cd-schedule [data-event="event-women-aerobic"] .header-bg {background: #bae9fd;color:#333!important}
+.cd-schedule .single-event[data-event="event-women-aerobic"],.cd-schedule [data-event="event-women-aerobic"] .header-bg {background: #26e6ff;color:#333!important}
 .cd-schedule .single-event[data-event="event-women-aerobic"] *, .cd-schedule [data-event="event-women-aerobic"] .header *{color:inherit;}
-.cd-schedule .single-event[data-event="event-women-aerobic"]:hover {background: #aad9ed;}
+.cd-schedule .single-event[data-event="event-women-aerobic"]:hover {background: #16d6ef;}
+
+.cd-schedule .single-event[data-event="event-women-hopkido"],.cd-schedule [data-event="event-women-hopkido"] .header-bg {background: #ffc107;color:#333!important}
+.cd-schedule .single-event[data-event="event-women-hopkido"] *, .cd-schedule [data-event="event-women-hopkido"] .header *{color:inherit;}
+.cd-schedule .single-event[data-event="event-women-hopkido"]:hover {background: #e0b000;}
 
 .cd-schedule .single-event[data-event="event-men-kungfu"],.cd-schedule [data-event="event-men-kungfu"] .header-bg {background:#222;}
 .cd-schedule .single-event[data-event="event-men-kungfu"]:hover {background: #000;}
