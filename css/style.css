@@ -382,8 +382,8 @@ Main Components
 .cd-schedule .single-event[data-event="event-men-gymnastics"],.cd-schedule [data-event="event-men-gymnastics"] .header-bg {background:#23c518;}
 .cd-schedule .single-event[data-event="event-men-gymnastics"]:hover {background:#13b508;}
 
-.cd-schedule .single-event[data-event="event-women-fitness"],.cd-schedule [data-event="event-women-fitness"] .header-bg {background:#a171e7;}
-.cd-schedule .single-event[data-event="event-women-fitness"]:hover {background:#834dd2;}
+.cd-schedule .single-event[data-event="event-women-fitness"],.cd-schedule [data-event="event-women-fitness"] .header-bg {background:#1ba6d0;}
+.cd-schedule .single-event[data-event="event-women-fitness"]:hover {background:#1ba6d0;}
 
 .cd-schedule .single-event[data-event="event-women-yoga"],.cd-schedule [data-event="event-women-yoga"] .header-bg {background:#a171e7;}
 .cd-schedule .single-event[data-event="event-women-yoga"]:hover {background:#834dd2;}
@@ -391,9 +391,9 @@ Main Components
 .cd-schedule .single-event[data-event="event-women-pilates"],.cd-schedule [data-event="event-women-pilates"] .header-bg {background:#a171e7;}
 .cd-schedule .single-event[data-event="event-women-pilates"]:hover {background:#834dd2;}
 
-.cd-schedule .single-event[data-event="event-men-mma"],.cd-schedule [data-event="event-men-mma"] .header-bg {background:#e13535;color:#fff!important;}
+.cd-schedule .single-event[data-event="event-men-mma"],.cd-schedule [data-event="event-men-mma"] .header-bg {background:#a2b301;color:#fff!important;}
 .cd-schedule .single-event[data-event="event-men-mma"] *, .cd-schedule [data-event="event-men-mma"] .header *{color:#fff;}
-.cd-schedule .single-event[data-event="event-men-mma"]:hover {background:#c12525;}
+.cd-schedule .single-event[data-event="event-men-mma"]:hover {background:#a2b301;}
 
 .cd-schedule .single-event[data-event="event-men-nearu"],.cd-schedule [data-event="event-men-nearu"] .header-bg {background:#30578a;color:#fff!important;}
 .cd-schedule .single-event[data-event="event-men-nearu"] *, .cd-schedule [data-event="event-men-nearu"] .header *{color:#fff;}
