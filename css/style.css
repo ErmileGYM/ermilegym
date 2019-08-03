@@ -379,6 +379,9 @@ Main Components
 .cd-schedule .single-event[data-event="event-women-karate"] *, .cd-schedule [data-event="event-women-karate"] .header *{color:inherit;}
 .cd-schedule .single-event[data-event="event-women-karate"]:hover {background: #fff;}
 
+.cd-schedule .single-event[data-event="event-women-tekwando"],.cd-schedule [data-event="event-women-tekwando"] .header-bg {background:#c80156;}
+.cd-schedule .single-event[data-event="event-women-tekwando"]:hover {background:#c80156;}
+
 .cd-schedule .single-event[data-event="event-men-gymnastics"],.cd-schedule [data-event="event-men-gymnastics"] .header-bg {background:#23c518;}
 .cd-schedule .single-event[data-event="event-men-gymnastics"]:hover {background:#13b508;}
 
@@ -390,6 +393,9 @@ Main Components
 
 .cd-schedule .single-event[data-event="event-women-pilates"],.cd-schedule [data-event="event-women-pilates"] .header-bg {background:#a171e7;}
 .cd-schedule .single-event[data-event="event-women-pilates"]:hover {background:#834dd2;}
+
+.cd-schedule .single-event[data-event="event-women-bale"],.cd-schedule [data-event="event-women-bale"] .header-bg {background:#c75201;}
+.cd-schedule .single-event[data-event="event-women-bale"]:hover {background:#c75201;}
 
 .cd-schedule .single-event[data-event="event-men-mma"],.cd-schedule [data-event="event-men-mma"] .header-bg {background:#a2b301;color:#fff!important;}
 .cd-schedule .single-event[data-event="event-men-mma"] *, .cd-schedule [data-event="event-men-mma"] .header *{color:#fff;}
