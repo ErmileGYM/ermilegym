@@ -405,8 +405,8 @@ Main Components
 .cd-schedule .single-event[data-event="event-men-nearu"] *, .cd-schedule [data-event="event-men-nearu"] .header *{color:#fff;}
 .cd-schedule .single-event[data-event="event-men-nearu"]:hover {background:#204070;}
 
-.cd-schedule .single-event[data-event="event-men-selfdefense"],.cd-schedule [data-event="event-men-selfdefense"] .header-bg {background:#05F6B8;}
-.cd-schedule .single-event[data-event="event-men-selfdefense"]:hover {background: #05F6B8;}
+.cd-schedule .single-event[data-event="event-men-selfdefense"],.cd-schedule [data-event="event-men-selfdefense"] .header-bg {background:#02FFBA;}
+.cd-schedule .single-event[data-event="event-men-selfdefense"]:hover {background: #02FFBA;}
 
 .cd-schedule .single-event[data-event="event-men-battlerope"],.cd-schedule [data-event="event-men-battlerope"] .header-bg {background:#222;}
 .cd-schedule .single-event[data-event="event-men-battlerope"]:hover {background: #000;}
