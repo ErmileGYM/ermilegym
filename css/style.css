@@ -385,8 +385,8 @@ Main Components
 .cd-schedule .single-event[data-event="event-men-gymnastics"],.cd-schedule [data-event="event-men-gymnastics"] .header-bg {background:#23c518;}
 .cd-schedule .single-event[data-event="event-men-gymnastics"]:hover {background:#13b508;}
 
-.cd-schedule .single-event[data-event="event-women-fitness"],.cd-schedule [data-event="event-women-fitness"] .header-bg {background:#05F622;}
-.cd-schedule .single-event[data-event="event-women-fitness"]:hover {background:#05F622;}
+.cd-schedule .single-event[data-event="event-women-fitness"],.cd-schedule [data-event="event-women-fitness"] .header-bg {background:#FF7402;}
+.cd-schedule .single-event[data-event="event-women-fitness"]:hover {background:#FF9402;}
 
 .cd-schedule .single-event[data-event="event-women-yoga"],.cd-schedule [data-event="event-women-yoga"] .header-bg {background:#a171e7;}
 .cd-schedule .single-event[data-event="event-women-yoga"]:hover {background:#834dd2;}
@@ -394,7 +394,7 @@ Main Components
 .cd-schedule .single-event[data-event="event-women-pilates"],.cd-schedule [data-event="event-women-pilates"] .header-bg {background:#a171e7;}
 .cd-schedule .single-event[data-event="event-women-pilates"]:hover {background:#834dd2;}
 
-.cd-schedule .single-event[data-event="event-women-bale"],.cd-schedule [data-event="event-women-bale"] .header-bg {background:#0560F6;}
+.cd-schedule .single-event[data-event="event-women-bale"],.cd-schedule [data-event="event-women-bale"] .header-bg {background:#2168FF;}
 .cd-schedule .single-event[data-event="event-women-bale"]:hover {background:#0560F6;}
 
 .cd-schedule .single-event[data-event="event-men-mma"],.cd-schedule [data-event="event-men-mma"] .header-bg {background:#a2b301;color:#fff!important;}
@@ -405,8 +405,8 @@ Main Components
 .cd-schedule .single-event[data-event="event-men-nearu"] *, .cd-schedule [data-event="event-men-nearu"] .header *{color:#fff;}
 .cd-schedule .single-event[data-event="event-men-nearu"]:hover {background:#204070;}
 
-.cd-schedule .single-event[data-event="event-men-selfdefense"],.cd-schedule [data-event="event-men-selfdefense"] .header-bg {background:#02FFBA;}
-.cd-schedule .single-event[data-event="event-men-selfdefense"]:hover {background: #02FFBA;}
+.cd-schedule .single-event[data-event="event-men-selfdefense"],.cd-schedule [data-event="event-men-selfdefense"] .header-bg {background:#E30000;}
+.cd-schedule .single-event[data-event="event-men-selfdefense"]:hover {background: #FF0202;}
 
 .cd-schedule .single-event[data-event="event-men-battlerope"],.cd-schedule [data-event="event-men-battlerope"] .header-bg {background:#222;}
 .cd-schedule .single-event[data-event="event-men-battlerope"]:hover {background: #000;}
