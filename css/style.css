@@ -379,14 +379,17 @@ Main Components
 .cd-schedule .single-event[data-event="event-women-karate"] *, .cd-schedule [data-event="event-women-karate"] .header *{color:inherit;}
 .cd-schedule .single-event[data-event="event-women-karate"]:hover {background: #fff;}
 
+.cd-schedule .single-event[data-event="event-men-karate"],.cd-schedule [data-event="event-men-karate"] .header-bg {background:#ff66ff;}
+.cd-schedule .single-event[data-event="event-men-karate"]:hover {background:#ff00ff;}
+
 .cd-schedule .single-event[data-event="event-women-tekwando"],.cd-schedule [data-event="event-women-tekwando"] .header-bg {background:#c80156;}
 .cd-schedule .single-event[data-event="event-women-tekwando"]:hover {background:#c80156;}
 
 .cd-schedule .single-event[data-event="event-men-gymnastics"],.cd-schedule [data-event="event-men-gymnastics"] .header-bg {background:#23c518;}
 .cd-schedule .single-event[data-event="event-men-gymnastics"]:hover {background:#13b508;}
 
-.cd-schedule .single-event[data-event="event-women-Calisthenics"],.cd-schedule [data-event="event-women-Calisthenics"] .header-bg {background:#ff66ff;}
-.cd-schedule .single-event[data-event="event-women-Calisthenics"]:hover {background:#ff00ff;}
+.cd-schedule .single-event[data-event="event-women-Calisthenics"],.cd-schedule [data-event="event-women-Calisthenics"] .header-bg {background:#FF7402;}
+.cd-schedule .single-event[data-event="event-women-Calisthenics"]:hover {background:#FF9402;}
 
 .cd-schedule .single-event[data-event="event-men-Calisthenics"],.cd-schedule [data-event="event-men-Calisthenics"] .header-bg {background:#2168FF;}
 .cd-schedule .single-event[data-event="event-men-Calisthenics"]:hover {background:#1a1aff;}
