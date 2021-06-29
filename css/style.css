@@ -388,14 +388,17 @@ Main Components
 .cd-schedule .single-event[data-event="event-men-gymnastics"],.cd-schedule [data-event="event-men-gymnastics"] .header-bg {background:#23c518;}
 .cd-schedule .single-event[data-event="event-men-gymnastics"]:hover {background:#13b508;}
 
-.cd-schedule .single-event[data-event="event-women-Calisthenics"],.cd-schedule [data-event="event-women-Calisthenics"] .header-bg {background:#FF7402;}
-.cd-schedule .single-event[data-event="event-women-Calisthenics"]:hover {background:#FF9402;}
+.cd-schedule .single-event[data-event="event-women-Calisthenics"],.cd-schedule [data-event="event-women-Calisthenics"] .header-bg {background:#33adff;}
+.cd-schedule .single-event[data-event="event-women-Calisthenics"]:hover {background:#007acc;}
 
 .cd-schedule .single-event[data-event="event-men-Calisthenics"],.cd-schedule [data-event="event-men-Calisthenics"] .header-bg {background:#2168FF;}
 .cd-schedule .single-event[data-event="event-men-Calisthenics"]:hover {background:#1a1aff;}
 
-.cd-schedule .single-event[data-event="event-women-fitness"],.cd-schedule [data-event="event-women-fitness"] .header-bg {background:#FF7402;}
-.cd-schedule .single-event[data-event="event-women-fitness"]:hover {background:#FF9402;}
+.cd-schedule .single-event[data-event="event-women-fitness"],.cd-schedule [data-event="event-women-fitness"] .header-bg {background:#1affb2;}
+.cd-schedule .single-event[data-event="event-women-fitness"]:hover {background:#009966;}
+
+.cd-schedule .single-event[data-event="event-women-bale"],.cd-schedule [data-event="event-women-bale"] .header-bg {background:#FF7402;}
+.cd-schedule .single-event[data-event="event-women-bale"]:hover {background:#FF9402;}
 
 .cd-schedule .single-event[data-event="event-women-yoga"],.cd-schedule [data-event="event-women-yoga"] .header-bg {background:#a171e7;}
 .cd-schedule .single-event[data-event="event-women-yoga"]:hover {background:#834dd2;}
@@ -403,8 +406,6 @@ Main Components
 .cd-schedule .single-event[data-event="event-women-pilates"],.cd-schedule [data-event="event-women-pilates"] .header-bg {background:#9900cc;}
 .cd-schedule .single-event[data-event="event-women-pilates"]:hover {background:#600080;}
 
-.cd-schedule .single-event[data-event="event-women-bale"],.cd-schedule [data-event="event-women-bale"] .header-bg {background:#2db300;}
-.cd-schedule .single-event[data-event="event-women-bale"]:hover {background:#1a6600;}
 
 .cd-schedule .single-event[data-event="event-men-mma"],.cd-schedule [data-event="event-men-mma"] .header-bg {background:#a2b301;color:#fff!important;}
 .cd-schedule .single-event[data-event="event-men-mma"] *, .cd-schedule [data-event="event-men-mma"] .header *{color:#fff;}
