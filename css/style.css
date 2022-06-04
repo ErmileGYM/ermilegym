@@ -376,7 +376,6 @@ Main Components
 .cd-schedule .single-event[data-event="event-women-kungfu"]:hover {background:#666;}
 
 .cd-schedule .single-event[data-event="event-women-karate"],.cd-schedule [data-event="event-women-karate"] .header-bg {background: #fff;color:#333!important}
-.cd-schedule .single-event[data-event="event-women-karate"] *, .cd-schedule [data-event="event-women-karate"] .header *{color:inherit;}
 .cd-schedule .single-event[data-event="event-women-karate"]:hover {background: #fff;}
 
 .cd-schedule .single-event[data-event="event-men-karate"],.cd-schedule [data-event="event-men-karate"] .header-bg {background:#ff66ff;}
